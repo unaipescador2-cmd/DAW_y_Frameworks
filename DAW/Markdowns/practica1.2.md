@@ -11,7 +11,7 @@ sudo apt update
 sudo apt install apache2 -y
 ```
 
-![alt text](image.png)
+![alt text](Imagenes/image.png)
 
 La instalación crea el servicio web y deja preparado el servidor para responder peticiones HTTP.
 
